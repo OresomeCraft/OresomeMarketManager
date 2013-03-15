@@ -15,7 +15,7 @@ public class WorldGuardManager {
 		final Plugin wgPlugin = Bukkit.getServer().getPluginManager().getPlugin("WorldGuard");
 
 		if (wgPlugin == null || !(wgPlugin instanceof WorldGuardPlugin) || !wgPlugin.isEnabled()) {
-			
+
 			return null;
 		}
 
