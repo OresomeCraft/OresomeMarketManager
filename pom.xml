@@ -84,7 +84,7 @@
     <url>https://github.com/OresomeCraft/OresomeBattles</url>
     <developerConnection>scm:git:ssh://git@github.com:OresomeCraft/OresomeMarketManager.git</developerConnection>
   </scm>
-  <description>The plugin that powers OresomeCraft Battles.</description>
+  <description>Plugin used to handle plot purchases on OresomeCraft SMP.</description>
   <organization>
     <name>OresomeCraft</name>
     <url>http://oresomecraft.com/</url>
